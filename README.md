@@ -1,4 +1,3 @@
-```
 # Fruit Detection Project
 
 This project implements a Convolutional Neural Network (CNN) for the classification of plant images into different categories. It includes code for training the model, making predictions on new images, and evaluating the model's performance.
@@ -35,5 +34,3 @@ To use this project, follow these steps:
 
 - The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com/your-kaggle-username/dataset-name).
 - Inspiration and guidance for building the CNN model were derived from various online resources and tutorials.
-
-```
